@@ -1,0 +1,2 @@
+# py_templateMessage
+基于tkinter的微信订阅号模板消息发送器
